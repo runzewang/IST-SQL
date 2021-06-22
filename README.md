@@ -15,8 +15,11 @@ Testing step:
 3. to test: sh test_cosql_editsql.sh
 
 Acknowledge:
+
 This project is conducted based on the project https://github.com/ryanzhumich/editsql
 
 Citation:
+
 If you use this project, please cite our paper:
+
 Wang, R.-Z., Ling, Z.-H., Zhou, J., & Hu, Y. (2021). Tracking Interaction States for Multi-Turn Text-to-SQL Semantic Parsing. Proceedings of the AAAI Conference on Artificial Intelligence, 35(16), 13979-13987. Retrieved from https://ojs.aaai.org/index.php/AAAI/article/view/17646
