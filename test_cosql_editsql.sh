@@ -8,7 +8,7 @@
 #    the result (models, logs, prediction outputs) are saved in $LOGDIR
 
 GLOVE_PATH="../data/glove.840B.300d.txt" # you need to change this
-LOGDIR="cosql_wi_pq_wi_pa_wi_sa_dst_00_wi_flatten_ori_loss_wo_pe_3"
+LOGDIR="trained_model"
 
 CUDA_VISIBLE_DEVICES=2 python3 run.py --raw_train_filename="../data/cosql_data_removefrom/train.pkl" \
           --raw_validation_filename="../data/cosql_data_removefrom/dev.pkl" \
