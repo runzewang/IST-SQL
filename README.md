@@ -3,7 +3,7 @@ Codes for AAAI2021 paper “Tracking Interaction States for Multi-Turn Text-to-S
 
 Training step:
 
-1. download the data from https://drive.google.com/drive/folders/1LRt_sLxChAkkLOf0ZrAh2-PJTX0HYF9I?usp=sharing , put the folder under the same path of the code folder. 
+1. download the data from https://drive.google.com/drive/folders/1LRt_sLxChAkkLOf0ZrAh2-PJTX0HYF9I?usp=sharing , put the folder under the same path of the code folder. Or you can download the original dataset from the website of sparc and cosql: https://yale-lily.github.io/sparc, and change the file paths in the preprocess.py and run_cosql_editsql.sh files.
 2. download the pretrained bert model from https://drive.google.com/drive/folders/1De1tyughemVMem-aGYTCo076GZxZvVCS?usp=sharing, put the folder under the same path of the code folder. 
 3. check the input and output paths in the preprocess.py file.
 4. check the input and output paths in the run_cosql_editsql.sh file.
